@@ -1,1 +1,5 @@
-export const logger = (...args:any[]) => console.log(...args)
+import { JetLogger } from "jet-logger";
+
+const logger = JetLogger();
+
+export default logger;

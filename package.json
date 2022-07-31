@@ -1,12 +1,23 @@
 {
-  "name": "commons",
-  "version": "1.0.0",
-  "description": "",
+  "name": "@mohaimin95/commons",
+  "version": "1.0.3",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mohaimin95/commons.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mohaimin95/commons/issues"
+  },
+  "homepage": "https://github.com/mohaimin95/commons#readme",
+  "description": "",
+  "dependencies": {
+    "jet-logger": "^1.1.5"
+  }
 }
